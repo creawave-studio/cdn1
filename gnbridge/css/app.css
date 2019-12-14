@@ -318,7 +318,7 @@ ul{
             justify-content:space-between;
     z-index:9999; }
     #app .header-mobile .logo{
-      background:url("/img/logo.png") no-repeat center center/100%;
+      background:url("https://cdn.jsdelivr.net/gh/creawave-studio/cdn1@latest/gnbridge/img/logo.png") no-repeat center center/100%;
       width:120px;
       height:20px; }
     #app .header-mobile button{
@@ -362,7 +362,7 @@ ul{
           margin-left:0;
           width:150px;
           height:20px;
-          background:url("/img/logo.png") no-repeat;
+          background:url("https://cdn.jsdelivr.net/gh/creawave-studio/cdn1@latest/gnbridge/img/logo.png") no-repeat;
           background-size:100% !important; }
       #app .header .header__top .right{
         display:-webkit-box;
