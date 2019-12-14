@@ -113,20 +113,20 @@
   font-family:'Roboto';
   font-style:normal;
   font-weight:300;
-  src:url("/fonts/roboto-v20-cyrillic_latin-300.eot");
-  src:local("Roboto Light"), local("Roboto-Light"), url("/fonts/roboto-v20-cyrillic_latin-300.eot?#iefix") format("embedded-opentype"), url("/fonts/roboto-v20-cyrillic_latin-300.woff2") format("woff2"), url("/fonts/roboto-v20-cyrillic_latin-300.woff") format("woff"), url("/fonts/roboto-v20-cyrillic_latin-300.ttf") format("truetype"), url("/fonts/roboto-v20-cyrillic_latin-300.svg#Roboto") format("svg"); }
+  src:url("https://gnbridge.com/fonts/roboto-v20-cyrillic_latin-300.eot");
+  src:local("Roboto Light"), local("Roboto-Light"), url("https://gnbridge.com/fonts/roboto-v20-cyrillic_latin-300.eot?#iefix") format("embedded-opentype"), url("https://gnbridge.com/fonts/roboto-v20-cyrillic_latin-300.woff2") format("woff2"), url("https://gnbridge.com/fonts/roboto-v20-cyrillic_latin-300.woff") format("woff"), url("https://gnbridge.com/fonts/roboto-v20-cyrillic_latin-300.ttf") format("truetype"), url("https://gnbridge.com/fonts/roboto-v20-cyrillic_latin-300.svg#Roboto") format("svg"); }
 @font-face{
   font-family:'Roboto';
   font-style:normal;
   font-weight:400;
-  src:url("/fonts/roboto-v20-cyrillic_latin-regular.eot");
-  src:local("Roboto"), local("Roboto-Regular"), url("/fonts/roboto-v20-cyrillic_latin-regular.eot?#iefix") format("embedded-opentype"), url("/fonts/roboto-v20-cyrillic_latin-regular.woff2") format("woff2"), url("/fonts/roboto-v20-cyrillic_latin-regular.woff") format("woff"), url("/fonts/roboto-v20-cyrillic_latin-regular.ttf") format("truetype"), url("/fonts/roboto-v20-cyrillic_latin-regular.svg#Roboto") format("svg"); }
+  src:url("https://gnbridge.com/fonts/roboto-v20-cyrillic_latin-regular.eot");
+  src:local("Roboto"), local("Roboto-Regular"), url("https://gnbridge.com/fonts/roboto-v20-cyrillic_latin-regular.eot?#iefix") format("embedded-opentype"), url("https://gnbridge.com/fonts/roboto-v20-cyrillic_latin-regular.woff2") format("woff2"), url("https://gnbridge.com/fonts/roboto-v20-cyrillic_latin-regular.woff") format("woff"), url("https://gnbridge.com/fonts/roboto-v20-cyrillic_latin-regular.ttf") format("truetype"), url("https://gnbridge.com/fonts/roboto-v20-cyrillic_latin-regular.svg#Roboto") format("svg"); }
 @font-face{
   font-family:'Roboto';
   font-style:normal;
   font-weight:500;
-  src:url("/fonts/roboto-v20-cyrillic_latin-500.eot");
-  src:local("Roboto Medium"), local("Roboto-Medium"), url("/fonts/roboto-v20-cyrillic_latin-500.eot?#iefix") format("embedded-opentype"), url("/fonts/roboto-v20-cyrillic_latin-500.woff2") format("woff2"), url("/fonts/roboto-v20-cyrillic_latin-500.woff") format("woff"), url("/fonts/roboto-v20-cyrillic_latin-500.ttf") format("truetype"), url("/fonts/roboto-v20-cyrillic_latin-500.svg#Roboto") format("svg"); }
+  src:url("https://gnbridge.com/fonts/roboto-v20-cyrillic_latin-500.eot");
+  src:local("Roboto Medium"), local("Roboto-Medium"), url("https://gnbridge.com/fonts/roboto-v20-cyrillic_latin-500.eot?#iefix") format("embedded-opentype"), url("https://gnbridge.com/fonts/roboto-v20-cyrillic_latin-500.woff2") format("woff2"), url("https://gnbridge.com/fonts/roboto-v20-cyrillic_latin-500.woff") format("woff"), url("https://gnbridge.com/fonts/roboto-v20-cyrillic_latin-500.ttf") format("truetype"), url("https://gnbridge.com/fonts/roboto-v20-cyrillic_latin-500.svg#Roboto") format("svg"); }
 
 *{
   -webkit-box-sizing:border-box;
@@ -318,7 +318,7 @@ ul{
             justify-content:space-between;
     z-index:9999; }
     #app .header-mobile .logo{
-      background:url("./img/logo.png") no-repeat center center/100%;
+      background:url("https://gnbridge.com/img/logo.png") no-repeat center center/100%;
       width:120px;
       height:20px; }
     #app .header-mobile button{
@@ -362,7 +362,7 @@ ul{
           margin-left:0;
           width:150px;
           height:20px;
-          background:url("./img/logo.png") no-repeat;
+          background:url("https://gnbridge.com/img/logo.png") no-repeat;
           background-size:100% !important; }
       #app .header .header__top .right{
         display:-webkit-box;
